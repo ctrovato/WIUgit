@@ -23,6 +23,14 @@ background:  url("../images/simple-checker.gif") repeat center fixed;
         background-color: #FFFFFF;
 } 
 
+WS {
+        margin: 1%;
+        border-radius: 5px;
+        padding: 1px;
+
+}
+
+
 .about {
         margin: 1%;
         width: 98%;
@@ -57,7 +65,7 @@ h1{
         font-style: normal;
         font-weight: normal;
         font-size: 3em;
-        font-family: helvetica;
+        font-family: Arial Black;
         color:black;                
 
 }
