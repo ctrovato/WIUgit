@@ -3,7 +3,7 @@ body {
 width: 95%;
 margin: auto;
 
-background:  url("../images/surfHD.jpg") repeat center fixed;
+background:  url("../images/surfbkground.jpg") repeat center fixed;
 
 
 }
@@ -81,7 +81,7 @@ h2 {
         text-indent: 35px;
         font-family: , sans-serif;;
         color: black;
-        background:-webkit-gradient(linear, left top, right top, color-stop(0%,rgba(214,214,214,1)), color-stop(22%,rgba(237,237,237,1)), color-stop(100%,rgba(255,255,255,1)));
+        background:-webkit-gradient(linear, left top, right top, color-stop(0%,rgba(201,242,255,1)), color-stop(22%,rgba(237,237,237,1)), color-stop(100%,rgba(255,255,255,1)));
         background-size: contain;
         width: auto;
         height: auto;
